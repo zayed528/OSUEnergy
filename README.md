@@ -8,12 +8,3 @@ This repository follows a structured data engineering and analytics workflow bui
 
 ---
 
-## Project Structure
-
-The workflow is organized into four main notebooks:
-<ol>
-<li>01_load_and_join</li>
-<li>02_energy_trends</li>
-<li>03_efficiency_analysis</li>
-<li>04_dashboard_tables</li>
-</ol>
